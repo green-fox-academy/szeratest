@@ -1,7 +1,7 @@
 public class Count {
 
-    public void count() {
-        System.out.println("32");
+    public void count(String age) {
+        System.out.println(age);
     }
 
 }
