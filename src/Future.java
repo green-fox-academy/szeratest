@@ -1,6 +1,6 @@
 public class Future {
 
-    public static void future(){
-        System.out.println("Peasces");
+    public static void future(String x){
+        System.out.println(x);
     }
 }
